@@ -9,8 +9,9 @@
 
 The goal of sexscales is to help you easily calculate (sub)scale scores
 using the Qualtrics versions of measures in the 4th edition of the
-*Handbook of Sexuality-Related Measures* (Milhausen et al., 2019). \#\#
-Installation
+*Handbook of Sexuality-Related Measures* (Milhausen et al., 2019).
+
+## Installation
 
 You can install the development version from
 [GitHub](https://github.com/) with:
