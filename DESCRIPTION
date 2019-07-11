@@ -1,0 +1,17 @@
+Package: sexscales
+Title: sexscales: Automatic scoring of scales in the Handbook of
+    Sexuality-Related Measures (4th ed.)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "John",
+           family = "Sakaluk",
+           role = "cre",
+           email = "jksakaluk@gmail.com",
+           comment = c(ORCID = "0000-0002-2515-9822"))
+Description: This package will take data collected with one
+    or more of the pre-programmed Qualtrics surveys and automatically
+    calculate and return a data frame with all (sub)scale scores.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

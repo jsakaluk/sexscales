@@ -1,0 +1,10 @@
+citEntry(
+  entry    = "Book",
+  title    = "Handbook of Sexuality-Related Measures (4th Edition)",
+  editor   = personList(person("Robin", "Milhausen", "R."), person("John", "Sakaluk", "K."), person("Terri", "Fisher", "D."), person("Clive", "Davis", "M."), person("William", "Yarber", "L.")),
+  year     = "2019",
+  publisher = "Routledge",
+  header   = "To cite sexscales in publications use:",
+  url      = "https://www.routledge.com/Handbook-of-Sexuality-Related-Measures-4th-Edition/Milhausen-Sakaluk-Fisher-Davis-Yarber/p/book/9781138740846",
+  textVersion = paste("Milhausen, R. R., Sakaluk, J. K., Fisher, T. D., Davis, C. M., & Yarber, W. L. (2019). Handbook of sexuality-related measures (4th ed.). New York, NY: Routledge")
+)
