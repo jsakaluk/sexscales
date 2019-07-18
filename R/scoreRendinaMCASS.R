@@ -1,4 +1,4 @@
-#' A function that scores Renaud & Byers Sexual Cognition Checklist
+#' A function that scores Rendina et al.'s Maladaptive Cognitions About Sex Scale
 #'
 #' Calculates positive and negative total scores, as well as subscales for dominance and submission
 #' @param dat data frame
