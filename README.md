@@ -1,8 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-\# sexscales
-<img src='man/figures/logo.png' align="right" height="139" />
+# sexscales <img src='man/figures/logo.png' align="right" height="139" />
 
 <!-- badges: start -->
 
